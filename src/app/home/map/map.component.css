@@ -1,0 +1,89 @@
+.rota_mapa {
+    position: relative;
+    top: -671px;
+    left: 87px;
+
+    background: var(--fundo-f5f5f5) 0% 0% no-repeat padding-box;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.h6 {
+    font-style: Bold;
+    font-size: 21pt;
+}
+.mapa {
+    position: relative;
+    top: 7px;
+    left: 29px;
+}
+
+.card_identificaçãoAMR {
+    position: relative;
+    width: 136px;
+    height: 510px;
+}
+
+.img_card_01 {
+   position: relative;
+    top: 13px;
+    left: 22px;
+    width: 536px;
+    height: 50px;
+    /* UI Properties */
+    background: transparent url('/assets/map/Retângulo\ 24296.svg') 0% 0% no-repeat padding-box;
+    border-radius: 8px 8px 0px 0px;
+    opacity: 1;
+}
+.linha_laranja {
+    position: relative;
+    top: 0px;
+    left: 21px;
+}
+.nome {
+    position: relative;
+    top: -46px;
+    left: 39px;
+}
+.status {
+    position: relative;
+    top: -87px;
+    left: 489px;
+}
+.lista_amr {
+    position: relative;
+    top: -88px;
+    left: 22px;
+}
+.informacao{
+    position: relative;
+    top: -492px;
+    left: 578px;
+    width: 316px;
+    height: 461px;
+
+}
+.mapeamento {
+    position: relative;
+    top: -38px;
+    left: 49px;
+
+    color: #F5F5F5;
+}
+.icon_info {
+    position: relative;
+    top: -79px;
+    left: 17px;
+}
+.container_informacao {
+    position: inherit;
+    top: -66px;
+    left: 0px;
+    width: 312px;
+    height: 392px;
+    
+}
+.texto {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}

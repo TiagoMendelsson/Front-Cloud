@@ -1,0 +1,235 @@
+.cabecalho {
+    position: relative;
+    top: 0px;
+    left: 84px;
+    width: 942px;
+    height: 84px;
+
+
+    background: transparent url('/assets/Caminho\ 38699.svg') 0% 0% no-repeat padding-box;
+
+    opacity: 1;
+} 
+.coluna {
+    position: relative;
+    top: -98px;
+    left: -11px;
+    /*transform: matrix(0, 1, -1, 0, 0, 0);*/
+    background: transparent url('/assets/Caminho\ 38724.svg') 0% 0% no-repeat padding-box;
+}
+.logo {
+    position: relative;
+    top:  17px;
+    left: 361px;
+    width: 150px;
+    height: 52px;
+    display: block;
+    margin-right: auto;
+
+    /*background: transparent url('/assets/img/Grupo\ 30411@2x.png') 0% 0% no-repeat padding-box;*/
+    opacity: 1;
+}
+.search {
+   position: relative;
+    top: -20px;
+    left: 630px;
+    width: 30px;
+    height: 30px;
+    background: transparent url('/assets/img/Grupo\ 30538.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.notification {
+    position: relative;
+    top: -20px;
+    left: 650px;
+    width: 30px;
+    height: 30px;
+    background: transparent url('/assets/img/Grupo\ 30540.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.container_01 {
+    position: relative;
+    top: -84px;
+    left: 0.0001068115234375px;
+    width: 84px;
+    height: 84px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    background: transparent url('/assets/Caminho\ 38707.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.emergencia {
+    position: relative;
+    top: 8px;
+    left: 8px;
+    width: 68px;
+    height: 68px;
+    /*background: transparent url('/assets/img/Elipse\ 707.svg') 0% 0% no-repeat padding-box;*/
+    opacity: 1;
+}
+.letra_emergencia {
+    position: inherit;
+    top: -55px;
+    left: 14px;
+    width: 57px;
+    height: 57px;
+    transform: matrix(0,1,-1,0,0);
+    /*background: transparent url('/assets/img/Grupo\ 30549.svg') 0% 0% no-repeat padding-box;*/
+    opacity: 1;
+}
+.botao_vermelho {
+    position: relative;
+    top: -148px;
+    left: 14px;
+    width: 59px;
+    height: 129px;
+
+    /*background: transparent url('/assets/img/Elipse\ 708.svg') 0% 0% no-repeat padding-box;*/
+    /*box-shadow: 0px 8px #00000062;*/
+    opacity: 1;
+}
+.container_02 {
+    position: relative;
+    top: 12px;
+    left: 12px;
+    width: 84px;
+    height: 84px;
+    /* transform: matrix(0, 1, -1, 0, 0, 0); */
+    background: transparent url('/assets/Caminho\ 38700.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+
+
+
+.container_03 {
+    position: relative;
+    top: auto;
+    left: 10px;
+    width: 84px;
+    height: 84px;
+    /*transform: matrix(0, 1, -1, 0, 0, 0);*/
+
+    background: transparent url('/assets/Caminho\ 38701.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.container_04 {
+    position: relative;
+    top: auto;
+    left: 10px;
+    width: 84px;
+    height: 84px;
+    background: transparent url('/assets/Caminho\ 38702.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.container_05 {
+    position: relative;
+    top: auto;
+    left: 10px;
+    width: 84px;
+    height: 84px;
+    background: transparent url('/assets/Caminho\ 38725.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.container_06 {
+    position: relative;
+    top: auto;
+    left: 10px;
+    width: 84px;
+    height: 84px;
+    background: transparent url('/assets/Caminho\ 38704.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.container_07 {
+    position: relative;
+    top: 10px;
+    left: 0.0001068115234375px;
+    width: 84px;
+    height: 84px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    
+    background: transparent url('/assets/Caminho\ 38726.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.container_08 {
+    position: relative;
+    top: 10px;
+    left: 0.0001068115234375px;
+    width: 84px;
+    height: 84px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    
+    background: transparent url('/assets/Caminho\ 38727.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;   
+}
+
+.mission {
+    position: relative;
+    top: 14px;
+    left: 34px;
+    width: 30px;
+    height: 30px;
+   
+    background: transparent url('/assets/img/Grupo\ 30474.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.map {
+    position: relative;
+    top: 14px;
+    left: 34px;
+    width: 30px;
+    height: 30px;
+   
+    background: transparent url('/assets/img/Grupo\ 30471.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.usuario {
+    position: relative;
+    top: 14px;
+    left: 34px;
+    width: 30px;
+    height: 30px;
+    
+    background: transparent url('/assets/img/Grupo\ 30470.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.config{
+    position: relative;
+    top: 14px;
+    left: 34px;
+    width: 30px;
+    height: 30px;
+
+    background: transparent url('/assets/img/Grupo\ 30472.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.suporte {
+    position: relative;
+    top: 14px;
+    left: 34px;
+    width: 30px;
+    height: 30px;
+
+    background: transparent url('/assets/img/Grupo\ 30473.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+p {
+    position: inherit;
+    top: 14px;
+    left: 25px;
+    width: 37px;
+    height: 18px;
+    font-family: 'Regular';
+    font-size: 15px;
+    text-align: left;
+    color: #424242;
+    opacity: 100%;
+    
+}
+

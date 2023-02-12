@@ -1,0 +1,39 @@
+.menuView{
+    display: flex;
+    flex-direction: row;
+    max-width: 80px;
+    
+}
+
+.menuItem{
+
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80px;
+
+}
+
+.menuItem:hover{
+
+    cursor: pointer;
+    background-color: orange;
+
+}
+
+.selecionado{
+    background-color: orange;
+}
+
+.menuItem img{
+
+    height: 30px;
+    width: 30px;
+
+}
+
+.menuItem h5{
+    font-size: 10px;
+}
+

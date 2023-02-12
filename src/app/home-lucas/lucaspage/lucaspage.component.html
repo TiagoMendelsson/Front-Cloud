@@ -1,0 +1,10 @@
+
+    <div class="menuView" *ngFor="let menu of menuLista">
+        <div [ngClass]="menu.selecionado ? 'menuItem selecionado' : 'menuItem'">
+            
+            <img src="assets/img/Grupo 30472.svg"/>
+            <h5>{{menu.nome}}</h5>
+
+        </div>
+    </div>
+
